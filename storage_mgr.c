@@ -17,7 +17,7 @@ extern void initStorageManager (void) {
     Saran Mannam-A20553408-smannam1@hawk.iit.edu
     Jayawardhan Meesala-A02541523-jmeesala@hawk.iit.edu
     Venkatesh Garapati-vgarapati@hawk.iit.edu
-    Yashashree Reddy-ykarri@hawk.iit.edu
+    Yashashree Reddy-A20546825-ykarri@hawk.iit.edu
     */
 	file = NULL;
 }
