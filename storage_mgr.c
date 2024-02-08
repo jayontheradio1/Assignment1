@@ -13,7 +13,12 @@
 FILE *file;
 
 extern void initStorageManager (void) {
-	// Initialising file pointer i.e. storage manager.
+	/*
+    Saran Mannam-A20553408-smannam1@hawk.iit.edu
+    Jayawardhan Meesala-A02541523-jmeesala@hawk.iit.edu
+    Venkatesh Garapati-vgarapati@hawk.iit.edu
+    Yashashree Reddy-ykarri@hawk.iit.edu
+    */
 	file = NULL;
 }
 
